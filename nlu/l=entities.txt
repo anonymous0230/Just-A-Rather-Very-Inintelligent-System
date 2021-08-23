@@ -1,0 +1,12 @@
+time\getYear
+math\calculate
+time\etTime
+time\getMonth
+time\getDate
+question\you
+time\getWeather
+open\notepad
+open\mpc
+input\translate
+open\chrome
+time\getTime
