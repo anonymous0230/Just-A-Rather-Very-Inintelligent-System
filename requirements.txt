@@ -1,0 +1,12 @@
+speechrecongnition==3.8.1
+pocketsphinx==0.1.15
+Vosk==0.3.15
+pyttsx3==2.90
+json
+pyyaml
+tensorflow
+tekore
+spotipy
+requests
+deep_translator
+sentence-transformers
